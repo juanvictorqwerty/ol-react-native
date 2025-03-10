@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "ol": "latest",
-    "vite-plugin-singlefile": "^2.1.0"
+    "vite-plugin-singlefile": "^2.2.0"
   }
 }
